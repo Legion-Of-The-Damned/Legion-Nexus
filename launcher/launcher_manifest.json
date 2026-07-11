@@ -1,0 +1,11 @@
+{
+    "files": {
+        "assets/icon.png": "7ac159a413d7a86b81592bb82121e7d0cf03e878508a8a49c490a612efc403ee",
+        "assets/background.png": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "assets/fonts/AiW.ttf": "5d769df18c392b234222cd0b112349acde1b6600000000000000000000000000"
+    },
+    "folders": [
+        "assets",
+        "assets/fonts"
+    ]
+}
